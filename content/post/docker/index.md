@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 
-[点击下载笔记](file/docker.zip)
+[点击下载笔记](https://baize623.netlify.app/file/docker.zip)
 
 这部分是关于我学习docker时的笔记，大概是2019年8月写成，可能有部分已经过时。
 
