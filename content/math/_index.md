@@ -6,7 +6,7 @@ cms_exclude: true
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-这部分主要是与数学相关的文章。
+:heart: 这部分主要是与数学相关的文章。 :heart:

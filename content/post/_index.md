@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-这部分是一些与数学无关的文章或一些随笔感悟，对于数学相关的文章可以去[数学页面](https://baize623.netlify.app/math/)查看阅读。
+:heart: 这部分是一些与数学无关的文章或一些随笔感悟，对于数学相关的文章可以去[数学页面](https://baize623.netlify.app/math/)查看阅读。 :heart:
