@@ -11,9 +11,6 @@ main:
     url: 'post/'
     weight: 20
 
-  - name: 数学
-    url: 'math/'
-    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30
