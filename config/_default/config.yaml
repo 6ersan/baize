@@ -5,7 +5,7 @@
 
 title: "白泽" # Website name
 baseurl: '' # Website URL
-copyright: '© {year} 白泽, All rights reserved' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} 白泽' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
