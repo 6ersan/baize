@@ -7,9 +7,13 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: 文章
-    url: 'post/'
+
+  - name: 数学
+    url: "math/"
     weight: 20
+  - name: 其他文章
+    url: 'post/'
+    weight: 30
 
 #  - name: Projects
 #    url: '#projects'
