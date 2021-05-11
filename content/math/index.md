@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Math
 cms_exclude: true
 
 # View.
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-这一部分是与数学无关的文章或是一些生活随笔，比较杂，数学相关的文章可以去[数学页面](math/)查看阅读。
+这部分主要是与数学相关的文章。
