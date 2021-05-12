@@ -20,8 +20,8 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: "数学分析"
-    tag: ""
+    category: ""
+    tag: "数学分析"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
