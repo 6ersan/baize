@@ -21,7 +21,7 @@ content:
   filters:
     author: ""
     category: ""
-    tag: "数学分析"
+    tag: "Analysis"
     exclude_featured: false
     exclude_future: false
     exclude_past: false
