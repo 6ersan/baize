@@ -10,19 +10,4 @@
 
 {{/* Display copyright license. */}}
 {{ partial "site_footer_license" . }}
-
-<p class="powered-by">
-{{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
-
-
- <a href="/about/site">Open Source site</a> under <a href="/license/">CC BY NC SA 4.0</a>
- &middot;
-{{ with site.GetPage "privacy.md" }}
-  {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-{{ end }}
-
-{{ with .Site.GetPage "sitemap/index.md" }}
-&middot; {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
-{{ end }}   
-</p>
 </footer>
