@@ -1,7 +1,7 @@
 ---
 title: Math
 type: widget_page
-headless: true
+headless: false
 ---
 
 # +++
