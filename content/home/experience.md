@@ -29,7 +29,7 @@ experience:
     location: 山西省
     date_start: '2018-09-01'
     date_end: ''
-    description:
+    description: |2-
         * 学习数学与应用数学专业课程
         
  
