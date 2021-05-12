@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "数学认知方法（一）"
-subtitle: "观察、符号与等价"
+title: "数学认知方法（一）:观察、符号与等价"
+subtitle: ""
 summary: "随着对数学学习的深入，数学知识的抽象性也渐渐显现，其中一个非常明显的特点就是高度的“形式化”或者说“符号化”，而这一思想方法与数学中的“等价”这一关系息息相关，另外还涉及了我认识数学的一些反思，最终写成此文。"
 authors: [admin]
 tags: ["等效", "等价","符号化","形式化"]
