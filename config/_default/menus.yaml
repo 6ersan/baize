@@ -10,8 +10,8 @@ main:
 
   - name: 数学
     url: "math/"
-    weight: 20
-  - name: 其他文章
+    weight: 40
+  - name: 文章
     url: 'post/'
     weight: 30
 
