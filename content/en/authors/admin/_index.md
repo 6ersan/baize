@@ -1,33 +1,33 @@
 ---
 # Display name
-title: "白泽"
+title: "Beth"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数学专业的本科生
+role: Student of Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 太原理工大学
+- name: Taiyuan Univeristy of Technology
   url: "http://www2017.tyut.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "我 :heart: 数学、物理、机器学习（深度学习）等领域，另外，也会一些python编程，写过一些爬虫和神经网络的程序。 :smile:"
+bio: "I am interested in math, physics, deep learning, and :smile:"
 
 # Interests to show in About widget
 interests:
-- 数学
-- 物理
-- 机器学习
+- Math
+- Physics
+- Deep Learning
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: 数学与应用数学专业本科生
-    institution: 太原理工大学
+  - course: Bachelor in Mathematics &  Applied Mathematics
+    institution: Taiyuan Univeristy of Technology
     year: 2018
 
 
@@ -69,4 +69,7 @@ email: "liuersan623@gmail.com"
 highlight_name: false
 ---
 
-我目前是普通的数学专业的本科生，平时学习涉及到的领域有数学、物理、机器学习、python等。现在主要的精力放在数学方面，物理的话是在高中时期翻过理论物理方面的书，对大统一理论很是向往，机器学习是在进入大学后接触的，也很是有趣 :smile:
+
+Bethe is currently a third year student majoring in Mathematics at the Taiyuan University of Technology(TYUT).
+
+

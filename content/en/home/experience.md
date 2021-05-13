@@ -9,7 +9,7 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 经历
+title: Experience
 subtitle:
 
 # Date format for experience
@@ -22,15 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 本科生
-    company: 太原理工大学
-    company_url: ''
+  - title: College Student
+    company: Taiyuan Univeristy of Technology
+    company_url: 'http://www2017.tyut.edu.cn/'
     company_logo: xiaohui
-    location: 山西省
+    location: Shanxi,China
     date_start: '2018-09-01'
     date_end: ''
     description: |2-
-        * 学习数学与应用数学专业课程
+      The main work I learn:
+      * Basic mathematical knowledge
+      * Little Deep Learing knowledge
+      * Some python programing skills
         
  
 
