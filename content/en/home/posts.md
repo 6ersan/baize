@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 最近上传文章
+title: Recent Posts
 subtitle:
 
 content:
