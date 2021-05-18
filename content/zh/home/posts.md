@@ -39,3 +39,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+{{< cta cta_text="查看全部" cta_link="/post" cta_new_tab="true" >}}
