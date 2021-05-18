@@ -1,5 +1,5 @@
 ---
-title: 文章
+title: 博客
 cms_exclude: true
 
 design:
