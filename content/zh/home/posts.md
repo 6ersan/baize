@@ -40,4 +40,6 @@ design:
   view: 2
 ---
 
-{{< cta cta_text="查看全部" cta_link="/post" cta_new_tab="true" >}}
+{{% callout note %}}
+可通过 [博客页面](./post/) 快速查看全部文章。
+{{% /callout %}}
