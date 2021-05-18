@@ -5,11 +5,11 @@ widget: pages
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
-weight: 90
+weight: 55
 
-title: Recent Publications
+title: 最近发表论文
 subtitle: ''
 
 content:
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+可通过 [论文筛选页面](./publication/) 快速查看相关内容。
 {{% /callout %}}
