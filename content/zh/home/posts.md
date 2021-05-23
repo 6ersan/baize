@@ -40,6 +40,3 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-可通过 [博客页面](./post/) 快速查看全部文章。
-{{% /callout %}}
