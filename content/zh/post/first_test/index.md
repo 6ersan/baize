@@ -40,10 +40,11 @@ projects: []
 
 ### 两个命题及其证明
 
+#### 问题简述
 
+{{< figure src="question.png" caption="问题图示"  width="75%" height="75%" >}}
 
-{{< figure src="question.png" caption="当n=1时"  width="75%" height="75%" >}}
-
+如上图所示，作一个三角形$\Delta A_0 B_0 C_0$，分别从三角形各顶点$A_0$、$B_0$、$C_0$过三角形内一定作直线交对边于点$A_1$、$B_1$、$C_1$，然后连接$A_1$、$B_1$、$C_1$这三个点得到一个新的三角形$\Delta A_1 B_1 C_1$，然后又产生了新的三个交点$A_2$、$B_2$、$C_2$，然后再连接这三个点又得到新的三角形$\Delta A_2 B_2 C_2$，按这样的步骤循环下去可以得到一个三角形序列$\{\Delta A_n B_n C_n \}$
 
 <div id = "refer-anchor"></div>
 
