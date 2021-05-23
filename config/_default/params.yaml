@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: "mr robot"
-day_night: true
+theme: "cyberpunk"
+day_night: false
 font: ''
 font_size: L
 
