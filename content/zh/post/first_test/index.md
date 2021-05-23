@@ -42,7 +42,7 @@ projects: []
 
 
 
-{{< figure src="n=1.png" caption="当n=1时" >}}
+{{< figure src="n=1.png" caption="当n=1时"  width="75%" height="75%" >}}
 
 
 <div id = "refer-anchor"></div>
