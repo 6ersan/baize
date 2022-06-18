@@ -29,7 +29,7 @@ education:
   - course: 数学与应用数学专业本科生
     institution: 太原理工大学
     year: 2018
-  - course: 偏微分方程方向 研究生
+  - course: 偏微分方程方向硕士研究生
     institution: 首都师范大学
     year: 2022
 
