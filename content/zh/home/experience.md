@@ -42,8 +42,7 @@ experience:
     location: 北京市
     date_start: '2022-09'
     date_end: ''
-    description: |2-
-        偏微分方程方向的准研究生
+    description: "偏微分方程方向的准研究生"
 
 design:
   columns: '2'
