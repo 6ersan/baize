@@ -35,7 +35,6 @@ experience:
         * 一些有关深度学习的知识
         * 一些python编程的知识
         
- experience:
   - title: 硕士研究生
     company: 首都师范大学
     company_url: ''
