@@ -35,14 +35,14 @@ experience:
         * 一些有关深度学习的知识
         * 一些python编程的知识
         
-  - title: 硕士研究生
-    company: 首都师范大学
-    company_url: ''
-    company_logo: xiaohui2
-    location: 北京市
-    date_start: '2022-09'
-    date_end: ''
-    description: "偏微分方程方向的准研究生"
+  # - title: 硕士研究生
+  #   company: 首都师范大学
+  #   company_url: ''
+  #   company_logo: xiaohui2
+  #   location: 北京市
+  #   date_start: '2022-09'
+  #   date_end: ''
+  #   description: '偏微分方程方向的准研究生'
 
 design:
   columns: '2'
