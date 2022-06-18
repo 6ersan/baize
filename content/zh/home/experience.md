@@ -27,15 +27,24 @@ experience:
     company_url: ''
     company_logo: xiaohui
     location: 山西省
-    date_start: '2018-09-01'
-    date_end: ''
+    date_start: '2018-09'
+    date_end: '2022-06'
     description: |2-
         在此期间我主要学习了：
         * 数学方向的基础知识
         * 一些有关深度学习的知识
         * 一些python编程的知识
         
- 
+ experience:
+  - title: 硕士研究生
+    company: 首都师范大学
+    company_url: ''
+    company_logo: xiaohui2
+    location: 北京市
+    date_start: '2022-09'
+    date_end: ''
+    description: |2-
+        偏微分方程方向的准研究生
 
 design:
   columns: '2'

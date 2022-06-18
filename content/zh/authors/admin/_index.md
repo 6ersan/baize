@@ -6,21 +6,21 @@ title: "白泽"
 superuser: true
 
 # Role/position
-role: 数学专业的本科生
+role: 偏微分方程方向的准研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 太原理工大学
-  url: "http://www2017.tyut.edu.cn/"
+- name: 首都师范大学
+  url: "https://www.cnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "我 :heart: 数学、物理、机器学习（深度学习）等领域。目前把主要精力放在数学上。"
+bio: "我 :heart: 数学、物理、计算机（深度学习）等领域。目前把主要精力放在数学上。"
 
 # Interests to show in About widget
 interests:
 - 数学
 - 物理
-- 机器学习
+- 计算机
 
 
 # Education to show in About widget
@@ -29,6 +29,9 @@ education:
   - course: 数学与应用数学专业本科生
     institution: 太原理工大学
     year: 2018
+  - course: 偏微分方程方向 研究生
+    institution: 首都师范大学
+    year: 2022
 
 
 # Social/Academic Networking
@@ -69,4 +72,4 @@ email: "liuersan623@gmail.com"
 highlight_name: false
 ---
 
-我目前是普通的数学专业的本科生，平时学习涉及到的领域有数学、物理、机器学习、python等。现在主要的精力放在数学方面。对大统一类型的理论很感兴趣。
+我目前是数学专业的准研究生，选择的方向为偏微分方程。
