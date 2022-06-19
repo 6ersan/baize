@@ -2,6 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
 
 [[buttons]]
+  id = "QQ空间"
+  url = "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}&sharesource=qzone&pics=https://liuersan.netlify.app/post/temple/featured.jpg&title={title}&summary={summary}"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "qq"
+  enable = true
+
+[[buttons]]
   id = "twitter"
   url = "https://twitter.com/intent/tweet?url={url}&text={title}"
   title = "Twitter"
@@ -39,7 +47,7 @@
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "weibo"
