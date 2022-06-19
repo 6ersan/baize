@@ -4,7 +4,7 @@
 [[buttons]]
   id = "QQ空间"
   url = "https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url={url}&sharesource=qzone&pics=https://liuersan.netlify.app/post/temple/featured.jpg&title={title}&summary={summary}"
-  title = "Twitter"
+  title = "QQ空间"
   icon_pack = "fab"
   icon = "qq"
   enable = true
