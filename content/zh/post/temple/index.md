@@ -8,7 +8,7 @@ authors: [admin]
 tags: ["数学家",]
 categories: ["数学家"]
 featured: true
-# draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
