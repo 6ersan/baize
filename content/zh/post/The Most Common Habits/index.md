@@ -26,6 +26,6 @@ image:
 projects: []
 ---
 
-原文献的下载链接：![PDF](https://liuersan.netlify.app/file/english_writing1.pdf)
+原文献的下载链接：[PDF](https://liuersan.netlify.app/file/english_writing1.pdf)
 
 本文介绍了在200多篇中文作者写的英文论文中能看到的一些最常见的中式英语写作习惯。
