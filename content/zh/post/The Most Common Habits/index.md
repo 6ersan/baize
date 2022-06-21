@@ -27,9 +27,9 @@ image:
 projects: []
 ---
 
-原文献的下载链接：[PDF](https://liuersan.netlify.app/file/english_writing1.pdf)
+{{< cta cta_text="下载原文PDF" cta_link="https://liuersan.netlify.app/file/english_writing1.pdf" cta_new_tab="false" >}}
 
----
+
 {{< toc >}}
 
 本文介绍了在200多篇中文作者写的英文论文中观察到的一些最常见的中式英语习惯。在大多数情况下，为解释这些习惯会列出来自真实论文的实例文本，同时也会给出更合适的首选文本。本文试图解释如何纠正和防止这些错误。在某些情况下，还对这种习惯发生的原因做出了可能的解释。本文还可以作为编辑技术论文的个人指南，特别是在没有英语母语编辑的情况下。
