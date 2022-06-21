@@ -72,4 +72,4 @@ email: "liuersan623@gmail.com"
 highlight_name: false
 ---
 
-我目前是数学专业的准研究生，选择的方向为偏微分方程。
+我目前是数学专业的准研究生，方向为偏微分方程。
