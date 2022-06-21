@@ -9,6 +9,7 @@ tags: ["翻译","英文论文写作",]
 categories: ["翻译","论文写作"]
 featured: true
 toc: true
+type: book
 # draft: false
 
 # Featured image
