@@ -63,7 +63,7 @@ projects: []
 
 最常见的一个习惯是省略冠词 _a_ 、  _an_ 和 _the_ 。这是因为普通话没有直接对应的冠词，而且使用冠词的规则对非母语者来说有些复杂。
 
-冠词表示后面会有一个名词，冠词和名词之间的任何修饰语都是指该名词（a big blue bicycle/the first award）。_A_ 和 _an_ 是不定冠词；_the_ 是定冠词。每次使用单数不可数名词，(和)一个用来命名一个可数项的普通名词时，都需要某种定语。
+冠词表示后面会有一个名词，冠词和名词之间的任何修饰语都是指该名词（a big blue bicycle/the first award）。_A_ 和 _an_ 是不定冠词；_the_ 是定冠词。每次使用单数不可数名词，(和)一个用来命名一个可数项的普通名词时，都需要某种限定词。
 
 错误：_The_, _a_ 和 _an_ 1）在需要的地方省略了，2）在不需要的地方使用，或导致冗长 3）错误地使用冠词。
 
@@ -87,3 +87,7 @@ projects: []
 <font color = Red>错误</font> Theoretically, remanufacturing could fully take advantage of resources contained in EOF product thereby minimizing impact on environment to the greatest extent compared to landfill or recycling of materials; consequently it contributes greatly to resource conservation.
 
 <font color = Green>纠正</font>  Theoretically, remanufacturing could fully take advantage of resources contained in ___an___ EOF product thereby minimizing ___the___ impact on ___the___ environment to the greatest extent compared to landfill or recycling of materials; consequently it contributes greatly to resource conservation.
+
+定义：
+
+冠词 &emsp; 也称为_限定词_或名词标记，是指单词 _a_, _an_ 和 _the_. _A_ 和 _an_ 是不定冠词，_the_ 是定冠词。
