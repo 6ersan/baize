@@ -15,7 +15,7 @@ toc: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "文献原文（部分）"
+  caption: "论文原文（部分）"
   focal_point: "Smart"
   preview_only: false
 
@@ -90,4 +90,4 @@ projects: []
 
 定义：
 
-冠词 &emsp; 也称为_限定词_或名词标记，是指单词 _a_, _an_ 和 _the_. _A_ 和 _an_ 是不定冠词，_the_ 是定冠词。
+冠词 &emsp; 也称为_限定词_或名词标记，是指单词 _a_, _an_ 和 _the_. _A_ 和 _an_ 是不定冠词，_the_ 是定冠词。冠词表示名词跟在后面并且冠词和名词之间的修饰语均修饰那个名词。（a cold, metal chair/the lightning-fast computer）。
