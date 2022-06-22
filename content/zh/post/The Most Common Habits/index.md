@@ -69,7 +69,8 @@ projects: []
 
 不正确使用的例子：
 
-<font color = Blue>错误</font> Figure 2 shows the distribution of relative velocity on surface of main and splitter blades.
-<font color = Blue>纠正</font> Figure 2 shows the distribution of relative velocity **the** surface of **the** main and splitter blades.
+<font color = Red>错误</font> Figure 2 shows the distribution of relative velocity on surface of main and splitter blades.
+
+<font color = Green>纠正</font> Figure 2 shows the distribution of relative velocity **the** surface of **the** main and splitter blades.
 
 
