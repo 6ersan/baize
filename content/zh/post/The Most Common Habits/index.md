@@ -71,6 +71,19 @@ projects: []
 
 <font color = Red>错误</font> Figure 2 shows the distribution of relative velocity on surface of main and splitter blades.
 
-<font color = Green>纠正</font> Figure 2 shows the distribution of relative velocity **the** surface of **the** main and splitter blades.
+<font color = Green>纠正</font> Figure 2 shows the distribution of relative velocity ***the*** surface of ***the*** main and splitter blades.
 
 
+<font color = Red>错误</font> The software PowerSHAPE is chosen to be ___a___ 3D modeling tool; it is good at dealing with free surfaces and curves.
+
+<font color = Green>纠正</font> The software PowerSHAPE is chosen to be ___the___ 3D modeling tool; it is good at dealing with free surfaces and curves.
+
+该研究中只使用了一种3D建模工具，因此“3D modeling tool”是特定的，需要使用 _the_。
+
+<font color = Red>错误</font> A theoretical method for calculating the inner flow-field in centrifugal impeller with splitter blades and investigation of the interactions between main and splitter blades it presented in this paper. The vortices are distributed on the main and splitter blades to simulate the effects of flows. Systematical study of number and distribution of vortices is conducted.
+
+<font color = Green>纠正</font> A theoretical method for calculating the inner flow-field in ___a___ centrifugal impeller with splitter blades and ___an___ investigation of the interactions between main and splitter blades it presented in this paper. The vortices are distributed on the main and splitter blades to simulate the effects of flows. ___A___ systematical study of ___the___ number and distribution of vortices is conducted.
+
+<font color = Red>错误</font> Theoretically, remanufacturing could fully take advantage of resources contained in EOF product thereby minimizing impact on environment to the greatest extent compared to landfill or recycling of materials; consequently it contributes greatly to resource conservation.
+
+<font color = Green>纠正</font>  Theoretically, remanufacturing could fully take advantage of resources contained in ___an___ EOF product thereby minimizing ___the___ impact on ___the___ environment to the greatest extent compared to landfill or recycling of materials; consequently it contributes greatly to resource conservation.
