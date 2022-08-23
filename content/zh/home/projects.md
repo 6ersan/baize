@@ -5,11 +5,11 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
-active: false
+active: true
 # Order that this section appears on the page.
-weight: 65
+weight: 40
 
-title: Projects
+title: 项目
 subtitle: ''
 
 content:

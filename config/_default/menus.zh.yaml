@@ -9,11 +9,11 @@ main:
     weight: 10
 
   - name: 经历
-    url: '/post'
+    url: '#experience'
     weight: 20
 
   - name: 论文
-    url: '#publication'
+    url: '#publications'
     weight: 30
 
   # - name: 分类
@@ -29,9 +29,13 @@ main:
   - name: 项目
     url: '#projects'
     weight: 40
+
+  - name: 博客
+    url: '#posts'
+    weight: 50
   - name: 联系我
     url: '#contact'
-    weight: 50
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

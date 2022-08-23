@@ -1,12 +1,12 @@
 ---
 # Display name
-title: "白泽"
+title: "王子涵"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 偏微分方程方向的准研究生
+role: 偏微分方程方向的硕士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.cnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "我 :heart: 数学、物理、计算机（深度学习）等领域。目前把主要精力放在数学上。"
+bio: "我目前是偏微分方程方向的一名硕士研究生"
 
 # Interests to show in About widget
 interests:
@@ -72,4 +72,4 @@ email: "liuersan623@gmail.com"
 highlight_name: false
 ---
 
-我目前是数学专业的准研究生，方向为偏微分方程。
+我目前是数学专业的研究生，方向为偏微分方程。

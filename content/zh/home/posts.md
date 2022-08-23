@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 50
 
-title: 最近上传博客
+title: 博客
 subtitle:
 
 content:
