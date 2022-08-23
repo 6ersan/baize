@@ -6,9 +6,9 @@
 # Appearance
 
 theme: "minimal"
-day_night: false
-font: ''
-font_size: L
+day_night: minimal
+font: minimal
+font_size: M
 
 # SEO
 
