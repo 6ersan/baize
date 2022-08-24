@@ -28,7 +28,7 @@ experience:
     company_logo: xiaohui
     location: Shanxi,China
     date_start: '2018-09-01'
-    date_end: ''
+    date_end: '2022-06-01'
     description: |2-
       The main work I learn:
       * Basic mathematical knowledge
