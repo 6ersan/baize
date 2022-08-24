@@ -14,13 +14,13 @@ organizations:
   url: "https://www.cnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "我目前是偏微分方程方向的一名硕士研究生"
+bio: "我目前是偏微分方程方向的一名硕士研究生。"
 
 # Interests to show in About widget
 interests:
 - 数学
 - 物理
-- 计算机
+- 深度学习 
 
 
 # Education to show in About widget

@@ -1,20 +1,19 @@
 ---
 # Display name
-title: "Bethe"
+title: "Wang Zihan"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Student of Mathematics
+role: Master's degree in Partial Differential Equations
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Taiyuan Univeristy of Technology
-  url: "http://www2017.tyut.edu.cn/"
-
+- name: Capital Normal University
+  url: "https://www.cnu.edu.cn/"
 # Short bio (displayed in user profile at end of posts)
-bio: "I am interested in math, physics, deep learning, and :smile:"
+bio: "I am currently a graduate student in mathematics, with a focus on partial differential equations."
 
 # Interests to show in About widget
 interests:
@@ -29,7 +28,9 @@ education:
   - course: Bachelor in Mathematics &  Applied Mathematics
     institution: Taiyuan Univeristy of Technology
     year: 2018
-
+  - course: Master's Degree in Partial Differential Equations
+    institution: Capital Normal University
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +71,6 @@ highlight_name: false
 ---
 
 
-Bethe is currently a third year student majoring in Mathematics at the Taiyuan University of Technology(TYUT).
+I am currently a graduate student in mathematics, with a focus on partial differential equations.
 
 
