@@ -34,7 +34,15 @@ experience:
       * Basic mathematical knowledge
       * Little Deep Learing knowledge
       * Some python programing skills
-        
+
+  - title: Graduate Student 
+    company: Capital Normal University
+    company_url: ''
+    company_logo: xiaohui2
+    location: Beijing,China
+    date_start: '2022-09-01'
+    date_end: ''
+    description: 'Partial Differential Equations'       
  
 
 design:
