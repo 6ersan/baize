@@ -9,7 +9,7 @@ tags: ["翻译","英文论文写作",]
 categories: ["翻译","论文写作"]
 featured: true
 toc: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
