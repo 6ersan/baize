@@ -39,4 +39,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-
+详见我的[博客](https://6ersan.github.io/)
