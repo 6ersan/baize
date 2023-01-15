@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 讲义
+title: 讨论班
 subtitle:
 
 content:

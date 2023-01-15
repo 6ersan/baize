@@ -26,13 +26,12 @@ main:
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
-  - name: 项目
-    url: '#projects'
-    weight: 40
-
-  - name: 博客
+  - name: 讲义
     url: '#posts'
-    weight: 50
+    weight: 40
+  # - name: 项目
+  #   url: '#projects'
+  #   weight: 50
   - name: 联系我
     url: '#contact'
     weight: 100
