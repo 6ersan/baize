@@ -34,7 +34,10 @@ projects: []
 
 ### 课程录像
 
-待上传。。。
+|时间          | 内容        | 录像链接 |
+| ----------- | ----------- |----------|
+| 第1周    | 抽象测度1       |[点击查看录像](https://meeting.tencent.com/v2/cloud-record/share?id=d4ae34ae-080c-4c08-811d-80f2f99b56e3&from=3&is-single=true)|
+| 第2周   |    抽象测度2    |未开始|
 
 ### 补充材料
 
