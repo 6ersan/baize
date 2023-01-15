@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: 博客
+title: 讲义
 subtitle:
 
 content:
@@ -39,4 +39,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-详见我的[博客](https://6ersan.github.io/)
