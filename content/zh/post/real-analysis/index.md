@@ -32,6 +32,10 @@ projects: []
 课程时间：2022年12月-至今<br>
 参考书目：Stein《实分析》+Stein《泛函分析》+Folland《实分析》{{< cta cta_text="PDF网盘下载" cta_link="https://pan.baidu.com/s/1XNfSjTzoqHExEn7HBQmf6Q" cta_new_tab="true" >}}
 
+### 课程录像
+
+待上传。。。
+
 ### 补充材料
 
 非本课程主线部分，只是对知识点的补充，可不看.{{< cta cta_text="PDF网盘下载" cta_link="https://pan.baidu.com/s/1XNfSjTzoqHExEn7HBQmf6Q" cta_new_tab="true" >}}
