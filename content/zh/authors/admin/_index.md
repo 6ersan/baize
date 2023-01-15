@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:liuersan623@gmail.com'# For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://github.com/6ersan
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/6ersan
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
