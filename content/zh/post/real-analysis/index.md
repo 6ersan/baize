@@ -28,8 +28,8 @@ projects: []
 
 ### 课程信息
 
-课程名：《高等实分析》
-课程时间：2022年12月-至今
+课程名：《高等实分析》<br>
+课程时间：2022年12月-至今<br>
 参考书目：Stein《实分析》+Stein《泛函分析》+Folland《实分析》{{< cta cta_text="PDF网盘下载" cta_link="https://pan.baidu.com/s/1XNfSjTzoqHExEn7HBQmf6Q" cta_new_tab="true" >}}
 
 ### 补充材料
