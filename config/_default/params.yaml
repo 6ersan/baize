@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: ["minimal","hugo-pdf"]
-# theme_day: "minimal"
+# theme: ["minimal","hugo-pdf"]
+theme_day: "minimal"
 # day_night: 
 font: minimal
 font_size: M
