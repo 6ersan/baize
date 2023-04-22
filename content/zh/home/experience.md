@@ -29,11 +29,7 @@ experience:
     location: 山西省
     date_start: '2018-09-01'
     date_end: '2022-06-01'
-    description: |2-
-        在此期间我主要学习了：
-        * 数学方向的基础知识
-        * 一些有关深度学习的知识
-        * 一些python编程的知识
+    description: '数学与应用数学专业'
         
   - title: 硕士研究生
     company: 首都师范大学

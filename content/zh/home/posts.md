@@ -39,3 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+{{% callout note %}}
+ 点击[全部讲义](./post/) 
+{{% /callout %}}
