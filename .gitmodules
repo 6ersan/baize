@@ -1,0 +1,3 @@
+[submodule "hugo-pdf"]
+	path = data/themes/hugo-pdf
+	url = https://github.com/sytranvn/hugo-pdf.git
