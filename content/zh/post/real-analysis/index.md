@@ -41,7 +41,10 @@ projects: []
 
 ### 补充材料
 
+
 非本课程主线部分，只是对知识点的补充，可不看.{{< cta cta_text="PDF网盘下载" cta_link="https://pan.baidu.com/s/1XNfSjTzoqHExEn7HBQmf6Q" cta_new_tab="true" >}}
 
 补充材料目录：
 ![](./contents.png)
+
+{ {< embed-pdf url="./static/file/english_writing" >}}
