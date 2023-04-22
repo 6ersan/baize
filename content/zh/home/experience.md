@@ -25,7 +25,7 @@ experience:
   - title: 本科生
     company: 太原理工大学
     company_url: ''
-    company_logo: xiaohui
+    company_logo: xh
     location: 山西省
     date_start: '2018-09-01'
     date_end: '2022-06-01'
@@ -34,7 +34,7 @@ experience:
   - title: 硕士研究生
     company: 首都师范大学
     company_url: ''
-    company_logo: xiaohui2
+    company_logo: xh2
     location: 北京市
     date_start: '2022-09-01'
     date_end: ''
