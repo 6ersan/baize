@@ -47,4 +47,4 @@ projects: []
 补充材料目录：
 ![](./contents.png)
 
-{ {< embed-pdf url="./static/file/english_writing" >}}
+{ {< embed-pdf url="./static/file/english_writing1.pdf" >}}
